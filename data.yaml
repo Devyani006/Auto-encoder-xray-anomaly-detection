@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 23
+names: ['---- -----', 'auto parts', 'bags', 'bicycle', 'car weels', 'clohes', 'clothes', 'fabrics', 'lamps', 'object', 'office supplies', 'shoes', 'spare parts', 'table ware', 'table warre', 'tableware', 'tablware', 'tetiles', 'texstiles', 'textile', 'textiles', 'tools', 'toys']
+
+roboflow:
+  workspace: lin-jhhi5
+  project: cargo-x-ray-images
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lin-jhhi5/cargo-x-ray-images/dataset/2
