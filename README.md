@@ -73,7 +73,7 @@ xray-anomaly-detection/
 Due to GitHub file size limits, trained models are hosted on **Kaggle**.
 
 👉 **Download here**:
-https://www.kaggle.com/datasets/your-username/xray-models
+https://www.kaggle.com/datasets/devyanidhokrat/auto-encoder
 
 📌 After downloading, place inside:
 
